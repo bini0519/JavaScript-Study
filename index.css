@@ -1,0 +1,12 @@
+body{
+    background-color: peachpuff;
+}
+
+h1{
+    color: midnightblue;
+    transition: color .5s ease-in-out;
+}
+
+.clicked{
+    color:mediumvioletred;
+}
