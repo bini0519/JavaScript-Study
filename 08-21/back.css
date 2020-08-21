@@ -1,0 +1,22 @@
+.wrapper{
+    background-color: blueviolet;
+    width: 100vw;
+    height: 100vh;
+    transition: background-color 0.5s ease-in-out; 
+border-top-left-radius: 500px;
+border-top-right-radius: 500px;
+border-bottom-left-radius: 500px;
+border-bottom-right-radius: 500px;
+}
+
+.one{
+    margin-left: 600px;
+    background-color: peachpuff;
+    width: 70vw;
+    height: 70vh;
+    transition: background-color 0.5s ease-in-out; 
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 500px;
+}
