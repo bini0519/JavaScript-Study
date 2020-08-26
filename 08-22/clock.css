@@ -1,0 +1,23 @@
+body{
+    background-color: peachpuff;
+}
+
+
+.clicked{
+    color:mediumvioletred;
+}
+
+.form,
+.greetings{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
+
+
+h1{
+    color: midnightblue;
+    transition: color .5s ease-in-out;
+}
